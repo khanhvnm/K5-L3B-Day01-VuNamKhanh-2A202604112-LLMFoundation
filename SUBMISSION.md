@@ -25,7 +25,7 @@ Side lab tuỳ chọn (bonus): `src/optional_llm_api/solution/solution.py`.
 
 ## Tự kiểm tra trước khi nộp
 
-- [ ] Tên repository đúng mẫu ở trên.
+- [x] Tên repository đúng mẫu ở trên.
 - [ ] `report/individual/` có đủ 4 file; file báo cáo đã đổi tên, không còn tên `MSSV_HoTen.md`.
 - [ ] Notebook không chứa API key (tìm `sk-` trong file trước khi upload).
 - [ ] Không có email, số điện thoại trong notebook hay báo cáo.

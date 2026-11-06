@@ -294,11 +294,11 @@ Phần 4 không bắt buộc dùng OpenAI. Thêm key vào Colab → 🔑 **Secre
 
 ## Checklist trước khi bắt đầu
 
-- [ ] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
-- [ ] Dùng Chrome hoặc Edge phiên bản mới, Internet ổn định.
-- [ ] Có **một** API key LLM cho Phần 4 (OpenAI, Claude, Gemini, Groq hoặc OpenRouter, xem [Chọn nhà cung cấp LLM API](#chọn-nhà-cung-cấp-llm-api)). Không có key vẫn làm được Phần 0–3.
-- [ ] Biết mã khóa (`KHOA`, ví dụ `K5`), họ tên không dấu và MSSV để đặt tên repository.
-- [ ] Giấy và bút cho phần tính tay.
+- [x] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
+- [x] Dùng Chrome hoặc Edge phiên bản mới, Internet ổn định.
+- [x] Có **một** API key LLM cho Phần 4 (OpenAI, Claude, Gemini, Groq hoặc OpenRouter, xem [Chọn nhà cung cấp LLM API](#chọn-nhà-cung-cấp-llm-api)). Không có key vẫn làm được Phần 0–3.
+- [x] Biết mã khóa (`KHOA`, ví dụ `K5`), họ tên không dấu và MSSV để đặt tên repository.
+- [x] Giấy và bút cho phần tính tay.
 
 ## Hướng dẫn từng bước
 
